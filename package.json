@@ -1,0 +1,17 @@
+{
+  "name": "its5oclocksw",
+  "version": "0.0.1",
+  "description": "timezone twitter bot",
+  "main": "bot.js",
+  "dependencies": {
+    "graceful-fs": "~3.0.4",
+    "moment-timezone": "~0.2.5",
+    "twitter-js-client": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
